@@ -1,0 +1,14 @@
+{
+  "VASK": {
+    "NAME": "VASK",
+    "IP": "127.0.0.1",
+    "PORT": 3000,
+    "TYPE": "CLIENT"
+  },
+  "CLIENT": {
+    "NAME": "CLIENT",
+    "IP": "127.0.0.1",
+    "PORT": 8080,
+    "TYPE": "SERVER"
+  }
+}
